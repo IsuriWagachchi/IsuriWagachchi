@@ -31,7 +31,7 @@
 🔭I’m currently Developing **[Gate Pass Management System](https://bitbucket.org/mihirada/gate-pass/src/main/)**  **@SLT**<br>
 🌱 I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br><br>
+💬 Ask me about anything, I am happy to help you😉<br><br><br><br><br>
 
 <hr>
 
