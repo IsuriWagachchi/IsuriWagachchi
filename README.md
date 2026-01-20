@@ -29,8 +29,8 @@
 
 ✔ Pronouns: ***She/Her*** or ***TeamMaker***😉 <br>
 🔭Internship completed  **@SLTMobitel**<br>
-🌱 I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
+🌱 I’m currently learning **ReactJS**<br>
+✔ I’m looking to collaborate with any **Development and IT Solutions**<br>
 💬 Ask me about anything, I am happy to help you😉<br><br><br><br><br>
 
 <hr>
